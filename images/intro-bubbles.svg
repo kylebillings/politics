@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1181px" height="934px" viewBox="0 0 1181 934" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>intro-bubbles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1181" height="1054"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B7E3E4" offset="0%"></stop>
+            <stop stop-color="#A6CFE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-7" transform="translate(0.000000, -105.000000)">
+            <g id="intro-bubbles" transform="translate(0.000000, 21.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Group-3" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                    <g transform="translate(-210.000000, 84.000000)">
+                        <circle id="Oval-2-Copy-3" opacity="0.699999988" cx="908" cy="161" r="121"></circle>
+                        <path d="M913.59555,281.872913 C909.919949,302.023982 908,322.787777 908,344 C908,533.985954 1062.01405,688 1252,688 C1441.98595,688 1596,533.985954 1596,344 C1596,154.014046 1441.98595,0 1252,0 C1158.34838,0 1073.43755,37.4238071 1011.40652,98.132427 C1022.5695,116.454308 1029,137.976192 1029,161 C1029,225.950995 977.824507,278.949313 913.595564,281.872913 Z" id="Combined-Shape" opacity="0.400000006"></path>
+                        <path d="M528.966726,585.421699 C543.675899,588.42369 558.903866,590 574.5,590 C699.592496,590 801,488.592496 801,363.5 C801,238.407504 699.592496,137 574.5,137 C474.308637,137 389.311244,202.053123 359.441924,292.225268 C377.71957,285.607939 397.438445,282 418,282 C512.992977,282 590,359.007023 590,454 C590,506.703639 566.295623,553.870825 528.966726,585.421699 Z" id="Combined-Shape" opacity="0.200000003"></path>
+                        <circle id="Oval-2-Copy-6" opacity="0.300000012" cx="358" cy="107" r="67"></circle>
+                        <circle id="Oval-2-Copy-4" opacity="0.600000024" cx="418" cy="454" r="172"></circle>
+                        <circle id="Oval-2-Copy-5" cx="246" cy="688" r="246"></circle>
+                        <circle id="Oval-2-Copy" cx="835.5" cy="541.5" r="226.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

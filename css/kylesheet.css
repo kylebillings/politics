@@ -1,0 +1,43 @@
+/* General */
+.text-center {
+	text-align: center;
+}
+.pence-blue {
+	color: #005397;
+}
+.pence-red {
+	color: #E54B4B;
+}
+.pence-gray {
+	color: #C0C2CE;
+}
+/* Images */
+.img-responsive {
+	width: 100%;
+}
+
+/* Typography */
+.superstrong {
+	font-weight: 900;
+}
+
+.serif {
+	font-family: "PT Serif";
+}
+
+/* Animation */
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+.float {
+	animation: float 7s ease-in-out infinite;
+}

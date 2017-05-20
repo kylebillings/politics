@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1181px" height="1227px" viewBox="0 0 1181 1227" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>koda-sleep-bubbles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1181" height="1435"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B7E3E4" offset="0%"></stop>
+            <stop stop-color="#A6CFE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#B18AE0" offset="0%"></stop>
+            <stop stop-color="#9357A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-8" transform="translate(0.000000, -105.000000)">
+            <g id="koda-sleep-bubbles" transform="translate(0.000000, 21.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Group-3" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                    <g transform="translate(-210.000000, 84.000000)">
+                        <circle id="Oval-2-Copy-3" opacity="0.699999988" cx="908" cy="161" r="121"></circle>
+                        <circle id="Oval-2-Copy-3" opacity="0.699999988" cx="881.5" cy="1082.5" r="7.5"></circle>
+                        <circle id="Oval-2-Copy-11" opacity="0.699999988" cx="870.5" cy="1103.5" r="3.5"></circle>
+                        <circle id="Oval-2-Copy-10" opacity="0.699999988" cx="866.5" cy="1051.5" r="14.5"></circle>
+                        <path d="M913.59555,281.872913 C909.919949,302.023982 908,322.787777 908,344 C908,533.985954 1062.01405,688 1252,688 C1441.98595,688 1596,533.985954 1596,344 C1596,154.014046 1441.98595,0 1252,0 C1158.34838,0 1073.43755,37.4238071 1011.40652,98.132427 C1022.5695,116.454308 1029,137.976192 1029,161 C1029,225.950995 977.824507,278.949313 913.595564,281.872913 Z" id="Combined-Shape" opacity="0.400000006"></path>
+                        <path d="M528.966726,585.421699 C543.675899,588.42369 558.903866,590 574.5,590 C699.592496,590 801,488.592496 801,363.5 C801,238.407504 699.592496,137 574.5,137 C474.308637,137 389.311244,202.053123 359.441924,292.225268 C377.71957,285.607939 397.438445,282 418,282 C512.992977,282 590,359.007023 590,454 C590,506.703639 566.295623,553.870825 528.966726,585.421699 Z" id="Combined-Shape" opacity="0.200000003"></path>
+                        <circle id="Oval-2-Copy-6" opacity="0.300000012" cx="358" cy="107" r="67"></circle>
+                        <circle id="Oval-2-Copy-8" opacity="0.300000012" cx="862.5" cy="899.5" r="21.5"></circle>
+                        <circle id="Oval-2-Copy-4" opacity="0.600000024" cx="418" cy="454" r="172"></circle>
+                        <circle id="Oval-2-Copy-9" opacity="0.600000024" cx="811.5" cy="985.5" r="51.5"></circle>
+                        <circle id="Oval-2-Copy-5" cx="246" cy="688" r="246"></circle>
+                        <circle id="Oval-2-Copy" cx="835.5" cy="541.5" r="226.5"></circle>
+                        <circle id="Oval-2-Copy-7" cx="712.5" cy="845.5" r="88.5"></circle>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(527.000000, 1158.000000)">
+                        <g id="Group" stroke="none" stroke-width="1" fill-rule="evenodd">
+                            <path d="M68.0010871,127.887965 C66.6778686,127.969586 65.3437707,128.011 64,128.011 C62.6562293,128.011 61.3221314,127.969586 59.9989129,127.887965 C59.8738734,141.280728 48.9783081,152.099001 35.5559998,152.099001 C35.4371331,152.099001 35.3184646,152.098152 35.2,152.096461 L35.2,121.180335 C33.6834279,120.414832 32.2014669,119.590758 30.7570895,118.711085 C28.5830312,129.984241 18.6638799,138.499001 6.75599976,138.499001 C6.6371331,138.499001 6.5184646,138.498152 6.4,138.496461 L6.4,91.9414018 C2.29978812,83.5013218 2.84217094e-14,74.0247331 2.84217094e-14,64.0110001 C2.84217094e-14,28.6647761 28.653776,0.011000061 64,0.011000061 C99.346224,0.011000061 128,28.6647761 128,64.0110001 C128,74.0247331 125.700212,83.5013218 121.6,91.9414018 L121.6,138.496461 C121.481535,138.498152 121.362867,138.499001 121.244,138.499001 C109.33612,138.499001 99.4169688,129.984241 97.2429105,118.711085 L97.2429105,118.711085 C95.7985331,119.590758 94.3165721,120.414832 92.8,121.180335 L92.8,152.096461 C92.6815354,152.098152 92.5628669,152.099001 92.4440002,152.099001 C79.0216919,152.099001 68.1261266,141.280728 68.0010871,127.887965 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                        </g>
+                        <path d="M8,61 C14.1875425,65 20.4371139,67 26.7487142,67 C33.0603146,67 39.309886,65 45.4974285,61" id="Path-2" stroke="#8B55A7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M82,61 C88.1875425,65 94.4371139,67 100.748714,67 C107.060315,67 113.309886,65 119.497428,61" id="Path-2-Copy" stroke="#8B55A7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

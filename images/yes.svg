@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="332px" height="201px" viewBox="0 0 332 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>yes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B7E3E4" offset="0%"></stop>
+            <stop stop-color="#A6CFE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-36.000000, -96.000000)">
+            <g id="yes" transform="translate(36.000000, 96.000000)">
+                <path d="M157.948174,185.055 C157.94606,184.90692 157.945,184.758584 157.945,184.610001 C157.945,167.73494 171.624939,154.055 188.5,154.055 C205.375061,154.055 219.055,167.73494 219.055,184.610001 C219.055,184.758584 219.05394,184.90692 219.051826,185.055 L157.948174,185.055 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-1)" opacity="0.800000012" transform="translate(188.500000, 169.555000) rotate(-270.000000) translate(-188.500000, -169.555000) "></path>
+                <path d="M227.996825,170 L252,170 L252,169.700341 C289.262504,166.710459 320.294664,141.637372 332,107.577562 L332,106 L92.0016989,106 C74.3362555,106 60,120.326888 60,138 C60,155.676998 74.3275078,170 92.0013843,170 L197,170 L197,200.106826 C197.148081,200.10894 197.296416,200.110001 197.445,200.110001 C214.171477,200.110001 227.758851,186.669902 227.996825,170 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M0.00317451111,136 C0.00106055606,135.851919 0,135.703584 0,135.555 C0,118.67994 13.6799396,105 30.5550003,105 C47.430061,105 61.1100006,118.67994 61.1100006,135.555 C61.1100006,135.703584 61.1089401,135.851919 61.1068261,136 L0.00317451111,136 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M14.9481742,182.055 C14.9460603,181.90692 14.9449997,181.758584 14.9449997,181.610001 C14.9449997,164.73494 28.6249393,151.055 45.5,151.055 C62.3750607,151.055 76.0550003,164.73494 76.0550003,181.610001 C76.0550003,181.758584 76.0539397,181.90692 76.0518258,182.055 L14.9481742,182.055 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)" transform="translate(45.500000, 166.555000) rotate(-90.000000) translate(-45.500000, -166.555000) "></path>
+                <circle id="Combined-Shape-Copy-2" fill="#FFFFFF" cx="272.885" cy="132.885" r="18.8850002"></circle>
+                <circle id="Combined-Shape-Copy-2" fill="#000000" cx="279.67" cy="127.67" r="11.6700001"></circle>
+                <circle id="Oval-17-Copy-3" fill="#B7E3E4" cx="308" cy="40" r="16"></circle>
+                <circle id="Oval-17-Copy-4" fill="#B7E3E4" cx="292" cy="80" r="8"></circle>
+                <circle id="Oval-17-Copy-5" fill="#B7E3E4" cx="304" cy="4" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

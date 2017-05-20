@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="261px" height="231px" viewBox="0 0 261 231" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>no</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="50" height="26"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy" transform="translate(-51.000000, -40.000000)">
+            <g id="no" transform="translate(51.000000, 40.000000)">
+                <path d="M102.948174,215.055 C102.94606,214.90692 102.945,214.758584 102.945,214.610001 C102.945,197.73494 116.624939,184.055 133.5,184.055 C150.375061,184.055 164.055,197.73494 164.055,214.610001 C164.055,214.758584 164.05394,214.90692 164.051826,215.055 L102.948174,215.055 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-1)" opacity="0.800000012" transform="translate(133.500000, 199.555000) rotate(-270.000000) translate(-133.500000, -199.555000) "></path>
+                <path d="M172.418941,193.594428 C200.983393,181.383921 221,153.029525 221,120 C221,75.81722 185.18278,40 141,40 C96.81722,40 61,75.81722 61,120 C61,164.18278 96.81722,200 141,200 C141.333815,200 141.667152,199.997955 142,199.993878 L142,230.106826 C142.148081,230.10894 142.296416,230.110001 142.445,230.110001 C159.32006,230.110001 173,216.430061 173,199.555 C173,197.515292 172.800138,195.522264 172.41893,193.594432 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <circle id="Oval-17-Copy-3" fill="#B7E3E4" cx="245" cy="72" r="16"></circle>
+                <circle id="Oval-17-Copy-4" fill="#B7E3E4" cx="229" cy="32" r="8"></circle>
+                <circle id="Oval-17-Copy-5" fill="#B7E3E4" cx="241" cy="4" r="4"></circle>
+                <path d="M0.00317451111,120 C0.00106055606,119.851919 0,119.703584 0,119.555 C0,102.67994 13.6799396,89 30.5550003,89 C47.430061,89 61.1100006,102.67994 61.1100006,119.555 C61.1100006,119.703584 61.1089401,119.851919 61.1068261,120 L0.00317451111,120 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M14.9481742,166.055 C14.9460603,165.90692 14.9449997,165.758584 14.9449997,165.610001 C14.9449997,148.73494 28.6249393,135.055 45.5,135.055 C62.3750607,135.055 76.0550003,148.73494 76.0550003,165.610001 C76.0550003,165.758584 76.0539397,165.90692 76.0518258,166.055 L14.9481742,166.055 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)" transform="translate(45.500000, 150.555000) rotate(-90.000000) translate(-45.500000, -150.555000) "></path>
+                <g id="Group" transform="translate(167.000000, 120.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g mask="url(#mask-3)" id="Combined-Shape-Copy-2">
+                        <g transform="translate(7.000000, -19.000000)">
+                            <circle fill="#FFFFFF" cx="19.8850002" cy="18.8850002" r="18.8850002"></circle>
+                            <circle fill="#000000" cx="11.6700001" cy="18.6700001" r="11.6700001"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

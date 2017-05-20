@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="204px" viewBox="0 0 144 204" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>koda</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B18AE0" offset="0%"></stop>
+            <stop stop-color="#9357A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-4" transform="translate(-112.000000, -48.000000)">
+            <g id="koda" transform="translate(112.000000, 48.000000)">
+                <path d="M68.0010871,178.887965 C66.6778686,178.969586 65.3437707,179.011 64,179.011 C62.6562293,179.011 61.3221314,178.969586 59.9989129,178.887965 C59.8738734,192.280728 48.9783081,203.099001 35.5559998,203.099001 C35.4371331,203.099001 35.3184646,203.098152 35.2,203.096461 L35.2,172.180335 C33.6834279,171.414832 32.2014669,170.590758 30.7570895,169.711085 C28.5830312,180.984241 18.6638799,189.499001 6.75599976,189.499001 C6.6371331,189.499001 6.5184646,189.498152 6.4,189.496461 L6.4,142.941402 C2.29978812,134.501322 2.84217094e-14,125.024733 2.84217094e-14,115.011 C2.84217094e-14,79.6647761 28.653776,51.0110001 64,51.0110001 C99.346224,51.0110001 128,79.6647761 128,115.011 C128,125.024733 125.700212,134.501322 121.6,142.941402 L121.6,189.496461 C121.481535,189.498152 121.362867,189.499001 121.244,189.499001 C109.33612,189.499001 99.4169688,180.984241 97.2429105,169.711085 L97.2429105,169.711085 C95.7985331,170.590758 94.3165721,171.414832 92.8,172.180335 L92.8,203.096461 C92.6815354,203.098152 92.5628669,203.099001 92.4440002,203.099001 C79.0216919,203.099001 68.1261266,192.280728 68.0010871,178.887965 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <circle id="Oval-17-Copy-4" fill="#B7E3E4" cx="128" cy="56" r="8"></circle>
+                <circle id="Oval-17-Copy-6" fill="#B7E3E4" cx="120" cy="8" r="8"></circle>
+                <circle id="Oval-17-Copy-5" fill="#B7E3E4" cx="140" cy="28" r="4"></circle>
+                <circle id="Combined-Shape-Copy-2" fill="#FFFFFF" cx="26.8850002" cy="111.885" r="18.8850002"></circle>
+                <circle id="Combined-Shape-Copy-6" fill="#FFFFFF" cx="100.885" cy="111.885" r="18.8850002"></circle>
+                <circle id="Combined-Shape-Copy-2" fill="#000000" cx="31.6700001" cy="111.67" r="11.6700001"></circle>
+                <circle id="Combined-Shape-Copy-7" fill="#000000" cx="105.67" cy="111.67" r="11.6700001"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
